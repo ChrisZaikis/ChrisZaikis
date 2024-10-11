@@ -13,10 +13,6 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chris Zaikis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/christoszaikis) 
