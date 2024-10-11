@@ -10,9 +10,6 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChrisZaikis&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-
-
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/christoszaikis) 
