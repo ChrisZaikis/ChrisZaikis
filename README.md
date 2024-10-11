@@ -37,5 +37,5 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://zaikis.vercel.app/)
+![](https://zaikis.vercel.app/)
 
