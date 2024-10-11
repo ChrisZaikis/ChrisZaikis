@@ -28,9 +28,7 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
   ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
+
 
 ### Thanks for Visiting my GitHub Profile!
 
@@ -39,5 +37,5 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://zaikis.vercel.app/)
 
