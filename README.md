@@ -1,4 +1,7 @@
-# 💫 About Me:
+<h1 align="center"> Hi 👋🏻, I'm Chris Zaikis </br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
 I am a seasoned Full Stack Web Developer with over 20 years of experience specializing in building robust, scalable, and high-performance web applications using React and Angular. My expertise lies not only in crafting intuitive and responsive user interfaces but also in architecting backend solutions that are both efficient and secure.<br>What sets me apart is my holistic understanding of the full web development lifecycle. I have a deep passion for front-end technologies, particularly React and Angular. where I have mastered the art of creating dynamic and engaging user experiences.
 
 ## 🌐 Socials:
