@@ -14,12 +14,10 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
-### Thanks for Visiting my GitHub Profile!
-
 ---
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-
+### Thanks for Visiting my GitHub Profile!💙
 
