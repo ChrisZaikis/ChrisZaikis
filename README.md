@@ -14,11 +14,6 @@ I am a seasoned Full Stack Web Developer with over 20 years of experience specia
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
-  ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-
-
 ### Thanks for Visiting my GitHub Profile!
 
 ---
