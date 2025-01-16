@@ -1,8 +1,10 @@
 <h1 align="center"> Hi 👋🏻, I'm Christos Zaikis </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
-I am a seasoned Full Stack Web Developer with over 20 years of experience specializing in building robust, scalable, and high-performance web applications using React and Angular. My expertise lies not only in crafting intuitive and responsive user interfaces but also in architecting backend solutions that are both efficient and secure.<br>What sets me apart is my holistic understanding of the full web development lifecycle. I have a deep passion for front-end technologies, particularly React and Angular. where I have mastered the art of creating dynamic and engaging user experiences.
+<p align="center">Turning Imagination into Reality 🚀</p>
+I am a seasoned Full Stack Web Developer with over 20 years of experience building robust, scalable, and high-performance web applications using React and Angular. My expertise spans crafting intuitive, responsive user interfaces and architecting efficient, secure backend solutions.
+
+What truly sets me apart is my holistic understanding of the entire web development lifecycle. With a deep passion for front-end technologies—particularly React and Angular—I excel at creating dynamic, engaging user experiences that stand out in today’s digital landscape.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-zaikis-b63164112/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chris.zaikis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13427972/chris-zaikis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MrSmileDev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zaikis) 
