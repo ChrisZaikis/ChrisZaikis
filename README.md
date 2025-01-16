@@ -2,7 +2,7 @@
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning Imagination into Reality 🚀</p>
-I am a seasoned Full Stack Web Developer with over 20 years of experience building robust, scalable, and high-performance web applications using React and Angular. Beyond front-end mastery, I leverage advanced AI methodologies—particularly Large Language Models (LLMs) and recommender systems—to create personalized, data-driven experiences.
+I am a seasoned Web Developer with over 18+ years of experience building robust, scalable, and high-performance web applications using React and Angular. Beyond front-end mastery, I leverage advanced AI methodologies—particularly Large Language Models (LLMs) and recommender systems—to create personalized, data-driven experiences.
 
 My holistic understanding of the web development lifecycle includes designing intuitive, responsive interfaces and architecting secure, efficient backends. By harnessing the power of LLMs, I can build intelligent chatbots, search functionalities, and content generation tools that elevate user engagement. Moreover, my expertise in recommender systems allows me to deliver tailor-made content recommendations that keep users coming back.
 
